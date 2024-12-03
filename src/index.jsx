@@ -5,8 +5,8 @@ import Main from "./Main.jsx";
 
 createRoot(document.getElementById("root")).render(
   <BrowserRouter>
-  <StrictMode>
-    <Main />
-  </StrictMode>
+    <StrictMode>
+      <Main />
+    </StrictMode>
   </BrowserRouter>
 );
